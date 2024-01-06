@@ -16,7 +16,7 @@ public class PersonTest {
 
         System.out.println("对象实例的值是:" + person1);
 
-        person1.sleep(7);
+        person1.sleep(8);
         person1.speak();
         person1.fuck();
 
