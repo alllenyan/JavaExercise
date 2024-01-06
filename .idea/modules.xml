@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/JavaSECode.iml" filepath="$PROJECT_DIR$/JavaSECode.iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter01/chapter01.iml" filepath="$PROJECT_DIR$/chapter01/chapter01.iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter05_array/chapter05_array.iml" filepath="$PROJECT_DIR$/chapter05_array/chapter05_array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter06_object/chapter06_object.iml" filepath="$PROJECT_DIR$/chapter06_object/chapter06_object.iml" />
     </modules>
   </component>
 </project>
