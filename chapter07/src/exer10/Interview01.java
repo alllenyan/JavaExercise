@@ -24,14 +24,14 @@ class A {
     }
 }
 
-//class B {
-//    public B() {
-//        System.out.println("B");
-//    }
-//}
-
-class B extends A{
+class B {
     public B() {
         System.out.println("B");
     }
 }
+
+//class B extends A{
+//    public B() {
+//        System.out.println("B");
+//    }
+//}
